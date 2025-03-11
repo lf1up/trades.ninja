@@ -5,6 +5,26 @@
   padding: 20px;
 }
 
+.exchange-name {
+  display: inline-block;
+  animation: float 1s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 .features {
   display: flex;
   justify-content: center;
