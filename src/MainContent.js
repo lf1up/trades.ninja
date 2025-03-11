@@ -3,7 +3,7 @@ import './MainContent.css';
 
 const MainContent = () => (
   <div className="main-content">
-    <h1>Outage proof Binance bot trading</h1>
+    <h1>Outage proof of Binance bot trading</h1>
     <p>
       Spend less time troubleshooting IoT connectivity and more time growing your
       business with reliable, global cellular connectivity that's easy to launch,
