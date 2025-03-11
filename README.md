@@ -51,4 +51,3 @@ The landing site of trades.ninja
 - Ensure all components are imported and used in `App.js`.
 - Adjust styles in the CSS files to match the desired design.
 - Components are structured to be reusable and easy to modify.
->>>>>>> master
