@@ -21,7 +21,7 @@ const MainContent = () => {
     <div className="main-content">
       <h1>Outage proof of {currentExchange} bot trading</h1>
       <p>
-        Take your freedom back and start to run stand-alone {currentExchange} trading bots inside our cloud.
+        Take your freedom back and start to run stand-alone trading bots inside our cloud.
         Write your own Python strategy code or select from a wide range of pre-built strategies.
         We provide a secure and reliable cloud environment to run your bots 24/7.
         Connect your {currentExchange} account and start trading in minutes.
@@ -31,7 +31,7 @@ const MainContent = () => {
         <span>📶 Guaranteed uptime</span>
         <span>❤️ 5,000+ customers</span>
       </div>
-      <button className="cta-button">Get {currentExchange} Bots Free</button>
+      <button className="cta-button">Get Auto-trading Bots Free</button>
     </div>
   );
 };
