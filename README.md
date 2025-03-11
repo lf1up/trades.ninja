@@ -1,6 +1,8 @@
 # trades.ninja
 The landing site of trades.ninja
 
+![Landing Page Screenshot](screenshot.png)
+
 ## Components
 
 ### `Header.js`
