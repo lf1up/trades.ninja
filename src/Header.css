@@ -1,0 +1,54 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+.contact-button {
+  background-color: #aaff00;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.main-content {
+  padding: 20px;
+  color: white;
+}
+
+.features {
+  display: flex;
+  gap: 10px;
+}
+
+.cta-button {
+  background-color: #aaff00;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.image-section {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.image-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #222;
+  color: white;
+}
+
+.partners {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
