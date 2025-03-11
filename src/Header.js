@@ -3,8 +3,8 @@ import './Header.css';
 
 const Header = () => (
   <header className="header">
-    <div className="logo">trades.ninja</div>
-    <button className="contact-button">Contact us</button>
+    <div className="logo"><h3>trades.ninja</h3></div>
+    <a href="mailto:support@trades.ninja" className="contact-button">Contact us support@trades.ninja</a>
   </header>
 );
 
