@@ -47,6 +47,10 @@
   color: white;
 }
 
+.footer a {
+  color: #fff;
+}
+
 .partners {
   display: flex;
   justify-content: center;
