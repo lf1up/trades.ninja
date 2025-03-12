@@ -25,17 +25,17 @@ const MainContent = () => {
         <br />
         Write your own Python strategy code or select from a wide range of pre-built strategies.
         <br />
-        We provide a secure and reliable cloud environment to run your bots 24/7.
+        We provide a secure and reliable cloud environment to <b>run your bots 24/7</b>.
         <br />
         <br />
-        <b>Connect your exchange (sub)account and start trading in minutes.</b>
+        <b>Connect your exchange (sub)account and start trading in minutes</b>.
       </p>
       <div className="features">
         <span>🌍 190+ countries</span>
         <span>📶 Guaranteed uptime</span>
         <span>❤️ 5,000+ customers</span>
       </div>
-      <button className="cta-button">Get Auto-trading Bots Free</button>
+      <a className="cta-button" href="mailto:support@trades.ninja">Get Auto-trading Bots Free</a>
     </div>
   );
 };
