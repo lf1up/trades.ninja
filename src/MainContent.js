@@ -19,7 +19,7 @@ const MainContent = () => {
 
   return (
     <div className="main-content">
-      <h1>Outage proof of automated <span className="exchange-name">💸 {currentExchange} 💸</span> trading</h1>
+      <h1>Outage proof of automated <span className="exchange-name"> 💸 {currentExchange} 💸 </span> trading</h1>
       <p>
         Take your freedom back and start to run stand-alone trading bots inside our cloud.
         <br />

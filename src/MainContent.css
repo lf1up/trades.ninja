@@ -8,6 +8,8 @@
 .exchange-name {
   display: inline-block;
   animation: float 1s ease-in-out infinite;
+  margin-right: 2rem;
+  margin-left: 2rem;
 }
 
 @keyframes float {
@@ -39,6 +41,16 @@
   padding: 10px 20px;
   cursor: pointer;
   font-size: 16px;
+}
+
+.main-content h1 {
+    height: 8em;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
 }
 
 
